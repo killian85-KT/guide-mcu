@@ -1,0 +1,44 @@
+{
+ "version": "1.0",
+ "scope": "AFTER V1 — 6 œuvres uniquement. Le reste du catalogue n'a pas d'AFTER.",
+ "rendering_rule": "SELECT * FROM after_block WHERE work_id=$1 AND requires_seen <@ (SELECT coalesce(array_agg(season_id),'{}') FROM progress WHERE user_id=$2) ORDER BY position",
+ "absence_not_blur": "Un bloc non éligible N'APPARAÎT PAS. Jamais de flou, jamais de mention qu'un contenu est masqué : le signaler serait déjà spoiler.",
+ "works": [
+  {
+   "work_id": "mcu-iron-man",
+   "title": "Iron Man",
+   "blocks": 7,
+   "gated_blocks": 3
+  },
+  {
+   "work_id": "mcu-avengers-endgame",
+   "title": "Avengers : Endgame",
+   "blocks": 7,
+   "gated_blocks": 3
+  },
+  {
+   "work_id": "mcu-loki",
+   "title": "Loki — Saison 1",
+   "blocks": 7,
+   "gated_blocks": 2
+  },
+  {
+   "work_id": "mcu-spider-man-no-way-home",
+   "title": "Spider-Man : No Way Home",
+   "blocks": 8,
+   "gated_blocks": 5
+  },
+  {
+   "work_id": "fox-deadpool-wolverine",
+   "title": "Deadpool & Wolverine",
+   "blocks": 7,
+   "gated_blocks": 3
+  },
+  {
+   "work_id": "mcu-thunderbolts",
+   "title": "Thunderbolts*",
+   "blocks": 7,
+   "gated_blocks": 2
+  }
+ ]
+}

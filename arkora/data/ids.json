@@ -1,0 +1,2187 @@
+[
+ {
+  "id": "mcu-les-eternels",
+  "universe_id": "mcu",
+  "title": "Les Éternels",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les Éternels"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-eternels-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-first-avenger",
+  "universe_id": "mcu",
+  "title": "Captain America : First Avenger",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Captain America : First Avenger"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-first-avenger-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-agent-carter",
+  "universe_id": "mcu",
+  "title": "Agent Carter",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Agent Carter (S1)",
+   "Agent Carter (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agent-carter-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agent-carter-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-marvel",
+  "universe_id": "mcu",
+  "title": "Captain Marvel",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Captain Marvel"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-marvel-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man",
+  "universe_id": "mcu",
+  "title": "Iron Man",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Iron Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-s0",
+    "number": 0,
+    "runtime_min": 126,
+    "runtime_is_estimate": false,
+    "narrative_weight": 96,
+    "chrono_order": 1
+   }
+  ]
+ },
+ {
+  "id": "mcu-l-incroyable-hulk",
+  "universe_id": "mcu",
+  "title": "L'Incroyable Hulk",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "L'Incroyable Hulk"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-l-incroyable-hulk-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man-2",
+  "universe_id": "mcu",
+  "title": "Iron Man 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Iron Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor",
+  "universe_id": "mcu",
+  "title": "Thor",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Thor"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers",
+  "universe_id": "mcu",
+  "title": "Avengers",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Avengers"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-s0",
+    "number": 0,
+    "runtime_min": 143,
+    "runtime_is_estimate": false,
+    "narrative_weight": 88,
+    "chrono_order": 2
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man-3",
+  "universe_id": "mcu",
+  "title": "Iron Man 3",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Iron Man 3"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-3-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-le-monde-des-tenebres",
+  "universe_id": "mcu",
+  "title": "Thor : Le Monde des Ténèbres",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Thor : Le Monde des Ténèbres"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-le-monde-des-tenebres-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-le-soldat-de-l-hiver",
+  "universe_id": "mcu",
+  "title": "Captain America : Le Soldat de l'Hiver",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Captain America : Le Soldat de l'Hiver"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-le-soldat-de-l-hiver-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie",
+  "universe_id": "mcu",
+  "title": "Les Gardiens de la Galaxie",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les Gardiens de la Galaxie"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-l-ere-d-ultron",
+  "universe_id": "mcu",
+  "title": "Avengers : L'Ère d'Ultron",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Avengers : L'Ère d'Ultron"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-l-ere-d-ultron-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man",
+  "universe_id": "mcu",
+  "title": "Ant-Man",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Ant-Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-civil-war",
+  "universe_id": "mcu",
+  "title": "Captain America : Civil War",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Captain America : Civil War"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-civil-war-s0",
+    "number": 0,
+    "runtime_min": 147,
+    "runtime_is_estimate": false,
+    "narrative_weight": 90,
+    "chrono_order": 3
+   }
+  ]
+ },
+ {
+  "id": "mcu-doctor-strange",
+  "universe_id": "mcu",
+  "title": "Doctor Strange",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Doctor Strange"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-doctor-strange-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie-vol-2",
+  "universe_id": "mcu",
+  "title": "Les Gardiens de la Galaxie Vol. 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les Gardiens de la Galaxie Vol. 2"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-vol-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-homecoming",
+  "universe_id": "mcu",
+  "title": "Spider-Man : Homecoming",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man : Homecoming"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-homecoming-s0",
+    "number": 0,
+    "runtime_min": 133,
+    "runtime_is_estimate": false,
+    "narrative_weight": 84,
+    "chrono_order": 4
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-ragnarok",
+  "universe_id": "mcu",
+  "title": "Thor : Ragnarok",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Thor : Ragnarok"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-ragnarok-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-panther",
+  "universe_id": "mcu",
+  "title": "Black Panther",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Black Panther"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-panther-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-infinity-war",
+  "universe_id": "mcu",
+  "title": "Avengers : Infinity War",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Avengers : Infinity War"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-infinity-war-s0",
+    "number": 0,
+    "runtime_min": 149,
+    "runtime_is_estimate": false,
+    "narrative_weight": 98,
+    "chrono_order": 5
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man-et-la-guepe",
+  "universe_id": "mcu",
+  "title": "Ant-Man et la Guêpe",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Ant-Man et la Guêpe"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-et-la-guepe-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-endgame",
+  "universe_id": "mcu",
+  "title": "Avengers : Endgame",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Avengers : Endgame"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-endgame-s0",
+    "number": 0,
+    "runtime_min": 181,
+    "runtime_is_estimate": false,
+    "narrative_weight": 99,
+    "chrono_order": 6
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-far-from-home",
+  "universe_id": "mcu",
+  "title": "Spider-Man : Far From Home",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man : Far From Home"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-far-from-home-s0",
+    "number": 0,
+    "runtime_min": 129,
+    "runtime_is_estimate": false,
+    "narrative_weight": 86,
+    "chrono_order": 7
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-widow",
+  "universe_id": "mcu",
+  "title": "Black Widow",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Black Widow"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-widow-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-wandavision",
+  "universe_id": "mcu",
+  "title": "WandaVision",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "WandaVision"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-wandavision-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-falcon-et-le-soldat-de-l-hiver",
+  "universe_id": "mcu",
+  "title": "Falcon et le Soldat de l'Hiver",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Falcon et le Soldat de l'Hiver"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-falcon-et-le-soldat-de-l-hiver-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-loki",
+  "universe_id": "mcu",
+  "title": "Loki",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Loki (Saison 1)",
+   "Loki (Saison 2)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-loki-s1",
+    "number": 1,
+    "runtime_min": 288,
+    "runtime_is_estimate": true,
+    "narrative_weight": 94,
+    "chrono_order": 8
+   },
+   {
+    "id": "mcu-loki-s2",
+    "number": 2,
+    "runtime_min": 300,
+    "runtime_is_estimate": true,
+    "narrative_weight": 92,
+    "chrono_order": 11
+   }
+  ]
+ },
+ {
+  "id": "mcu-what-if",
+  "universe_id": "mcu",
+  "title": "What If...?",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "What If...? (S1)",
+   "What If...? (S2-S3)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-what-if-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "mcu-what-if-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "mcu-what-if-s3",
+    "number": 3,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-hawkeye",
+  "universe_id": "mcu",
+  "title": "Hawkeye",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Hawkeye"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-hawkeye-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-moon-knight",
+  "universe_id": "mcu",
+  "title": "Moon Knight",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Moon Knight"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-moon-knight-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-ms-marvel",
+  "universe_id": "mcu",
+  "title": "Ms. Marvel",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Ms. Marvel"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ms-marvel-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-i-am-groot",
+  "universe_id": "mcu",
+  "title": "I Am Groot",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "I Am Groot (S1-S2)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-i-am-groot-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "mcu-i-am-groot-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-she-hulk-avocate",
+  "universe_id": "mcu",
+  "title": "She-Hulk : Avocate",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "She-Hulk : Avocate"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-she-hulk-avocate-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-werewolf-by-night",
+  "universe_id": "mcu",
+  "title": "Werewolf by Night",
+  "kind": "special",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Werewolf by Night"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-werewolf-by-night-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-special-fetes",
+  "universe_id": "mcu",
+  "title": "Les Gardiens : Spécial Fêtes",
+  "kind": "special",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les Gardiens : Spécial Fêtes"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-special-fetes-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-shang-chi-et-la-legende-des-dix-anneaux",
+  "universe_id": "mcu",
+  "title": "Shang-Chi et la Légende des Dix Anneaux",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Shang-Chi et la Légende des Dix Anneaux"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-shang-chi-et-la-legende-des-dix-anneaux-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-no-way-home",
+  "universe_id": "mcu",
+  "title": "Spider-Man : No Way Home",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man : No Way Home"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-no-way-home-s0",
+    "number": 0,
+    "runtime_min": 148,
+    "runtime_is_estimate": false,
+    "narrative_weight": 97,
+    "chrono_order": 9
+   }
+  ]
+ },
+ {
+  "id": "mcu-doctor-strange-multiverse-of-madness",
+  "universe_id": "mcu",
+  "title": "Doctor Strange : Multiverse of Madness",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Doctor Strange : Multiverse of Madness"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-doctor-strange-multiverse-of-madness-s0",
+    "number": 0,
+    "runtime_min": 126,
+    "runtime_is_estimate": false,
+    "narrative_weight": 87,
+    "chrono_order": 10
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-love-and-thunder",
+  "universe_id": "mcu",
+  "title": "Thor : Love and Thunder",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Thor : Love and Thunder"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-love-and-thunder-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-panther-wakanda-forever",
+  "universe_id": "mcu",
+  "title": "Black Panther : Wakanda Forever",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Black Panther : Wakanda Forever"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-panther-wakanda-forever-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-secret-invasion",
+  "universe_id": "mcu",
+  "title": "Secret Invasion",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Secret Invasion"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-secret-invasion-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man-et-la-guepe-quantumania",
+  "universe_id": "mcu",
+  "title": "Ant-Man et la Guêpe : Quantumania",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Ant-Man et la Guêpe : Quantumania"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-et-la-guepe-quantumania-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie-vol-3",
+  "universe_id": "mcu",
+  "title": "Les Gardiens de la Galaxie Vol. 3",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les Gardiens de la Galaxie Vol. 3"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-vol-3-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-the-marvels",
+  "universe_id": "mcu",
+  "title": "The Marvels",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Marvels"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-the-marvels-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-echo",
+  "universe_id": "mcu",
+  "title": "Echo",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Echo"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-echo-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-97",
+  "universe_id": "mcu",
+  "title": "X-Men '97",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men '97"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-97-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-agatha-all-along",
+  "universe_id": "mcu",
+  "title": "Agatha All Along",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Agatha All Along"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-agatha-all-along-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-your-friendly-neighborhood-spider-man",
+  "universe_id": "mcu",
+  "title": "Your Friendly Neighborhood Spider-Man",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Your Friendly Neighborhood Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-your-friendly-neighborhood-spider-man-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool-wolverine",
+  "universe_id": "mcu",
+  "title": "Deadpool & Wolverine",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Deadpool & Wolverine"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-wolverine-s0",
+    "number": 0,
+    "runtime_min": 128,
+    "runtime_is_estimate": false,
+    "narrative_weight": 89,
+    "chrono_order": 12
+   }
+  ]
+ },
+ {
+  "id": "tv-daredevil-born-again",
+  "universe_id": "mcu",
+  "title": "Daredevil : Born Again",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Daredevil : Born Again (S1)",
+   "Daredevil : Born Again (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-daredevil-born-again-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-daredevil-born-again-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-ironheart",
+  "universe_id": "mcu",
+  "title": "Ironheart",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Ironheart"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ironheart-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-marvel-zombies",
+  "universe_id": "mcu",
+  "title": "Marvel Zombies",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Marvel Zombies"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-marvel-zombies-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-brave-new-world",
+  "universe_id": "mcu",
+  "title": "Captain America : Brave New World",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Captain America : Brave New World"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-brave-new-world-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-thunderbolts",
+  "universe_id": "mcu",
+  "title": "Thunderbolts*",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Thunderbolts*"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thunderbolts-s0",
+    "number": 0,
+    "runtime_min": 127,
+    "runtime_is_estimate": false,
+    "narrative_weight": 91,
+    "chrono_order": 13
+   }
+  ]
+ },
+ {
+  "id": "f4-les-4-fantastiques-premiers-pas",
+  "universe_id": "mcu",
+  "title": "Les 4 Fantastiques : Premiers Pas",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Les 4 Fantastiques : Premiers Pas"
+  ],
+  "seasons": [
+   {
+    "id": "f4-les-4-fantastiques-premiers-pas-s0",
+    "number": 0,
+    "runtime_min": 115,
+    "runtime_is_estimate": true,
+    "narrative_weight": 95,
+    "chrono_order": 14
+   }
+  ]
+ },
+ {
+  "id": "mcu-eyes-of-wakanda",
+  "universe_id": "mcu",
+  "title": "Eyes of Wakanda",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Eyes of Wakanda"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-eyes-of-wakanda-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-wonder-man",
+  "universe_id": "mcu",
+  "title": "Wonder Man",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Wonder Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-wonder-man-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-visionquest",
+  "universe_id": "mcu",
+  "title": "VisionQuest",
+  "kind": "series",
+  "is_released": false,
+  "is_target_event": false,
+  "titles_legacy": [
+   "VisionQuest"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-visionquest-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-brand-new-day",
+  "universe_id": "mcu",
+  "title": "Spider-Man : Brand New Day",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man : Brand New Day"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-brand-new-day-s0",
+    "number": 0,
+    "runtime_min": 120,
+    "runtime_is_estimate": true,
+    "narrative_weight": 93,
+    "chrono_order": 15
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-doomsday",
+  "universe_id": "mcu",
+  "title": "AVENGERS : DOOMSDAY",
+  "kind": "film",
+  "is_released": false,
+  "is_target_event": true,
+  "titles_legacy": [
+   "AVENGERS : DOOMSDAY"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-doomsday-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-daredevil",
+  "universe_id": "mcu",
+  "title": "Daredevil",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Daredevil (S1)",
+   "Daredevil (S2)",
+   "Daredevil (S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-daredevil-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-daredevil-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-daredevil-s3",
+    "number": 3,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-jessica-jones",
+  "universe_id": "mcu",
+  "title": "Jessica Jones",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Jessica Jones (S1)",
+   "Jessica Jones (S2)",
+   "Jessica Jones (S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-jessica-jones-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-jessica-jones-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-jessica-jones-s3",
+    "number": 3,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-luke-cage",
+  "universe_id": "mcu",
+  "title": "Luke Cage",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Luke Cage (S1)",
+   "Luke Cage (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-luke-cage-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-luke-cage-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-iron-fist",
+  "universe_id": "mcu",
+  "title": "Iron Fist",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Iron Fist (S1)",
+   "Iron Fist (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-iron-fist-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-iron-fist-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-the-defenders",
+  "universe_id": "mcu",
+  "title": "The Defenders",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Defenders"
+  ],
+  "seasons": [
+   {
+    "id": "tv-the-defenders-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-the-punisher",
+  "universe_id": "mcu",
+  "title": "The Punisher",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Punisher (S1)",
+   "The Punisher (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-the-punisher-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-the-punisher-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-agents-of-s-h-i-e-l-d",
+  "universe_id": "mcu",
+  "title": "Agents of S.H.I.E.L.D.",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Agents of S.H.I.E.L.D. (S1)",
+   "Agents of S.H.I.E.L.D. (S2)",
+   "Agents of S.H.I.E.L.D. (S3-S4)",
+   "Agents of S.H.I.E.L.D. (S5-S7)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s3",
+    "number": 3,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s4",
+    "number": 4,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s5",
+    "number": 5,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s6",
+    "number": 6,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s7",
+    "number": 7,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-inhumans",
+  "universe_id": "mcu",
+  "title": "Inhumans",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Inhumans"
+  ],
+  "seasons": [
+   {
+    "id": "tv-inhumans-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-runaways",
+  "universe_id": "mcu",
+  "title": "Runaways",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Runaways (S1-S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-runaways-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-runaways-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-runaways-s3",
+    "number": 3,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-cloak-dagger",
+  "universe_id": "mcu",
+  "title": "Cloak & Dagger",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Cloak & Dagger (S1-S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-cloak-dagger-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   },
+   {
+    "id": "tv-cloak-dagger-s2",
+    "number": 2,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-helstrom",
+  "universe_id": "mcu",
+  "title": "Helstrom",
+  "kind": "series",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Helstrom"
+  ],
+  "seasons": [
+   {
+    "id": "tv-helstrom-s1",
+    "number": 1,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-the-consultant",
+  "universe_id": "mcu",
+  "title": "The Consultant",
+  "kind": "oneshot",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Consultant"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-the-consultant-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-a-funny-thing-happened-on-the-way-to-thor-s-",
+  "universe_id": "mcu",
+  "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+  "kind": "oneshot",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "A Funny Thing Happened on the Way to Thor's Hammer"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-a-funny-thing-happened-on-the-way-to-thor-s--s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-item-47",
+  "universe_id": "mcu",
+  "title": "Item 47",
+  "kind": "oneshot",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Item 47"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-item-47-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "tv-agent-carter-one-shot",
+  "universe_id": "mcu",
+  "title": "Agent Carter (One-Shot)",
+  "kind": "oneshot",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Agent Carter (One-Shot)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agent-carter-one-shot-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "mcu-all-hail-the-king",
+  "universe_id": "mcu",
+  "title": "All Hail the King",
+  "kind": "oneshot",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "All Hail the King"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-all-hail-the-king-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men",
+  "universe_id": "mcu",
+  "title": "X-Men",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-2",
+  "universe_id": "mcu",
+  "title": "X-Men 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men 2"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-l-affrontement-final",
+  "universe_id": "mcu",
+  "title": "X-Men : L'Affrontement final",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men : L'Affrontement final"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-l-affrontement-final-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-days-of-future-past",
+  "universe_id": "mcu",
+  "title": "X-Men : Days of Future Past",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men : Days of Future Past"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-days-of-future-past-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-logan",
+  "universe_id": "mcu",
+  "title": "Logan",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Logan"
+  ],
+  "seasons": [
+   {
+    "id": "fox-logan-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool",
+  "universe_id": "mcu",
+  "title": "Deadpool",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Deadpool"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool-2",
+  "universe_id": "mcu",
+  "title": "Deadpool 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Deadpool 2"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-le-commencement",
+  "universe_id": "mcu",
+  "title": "X-Men : Le Commencement",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men : Le Commencement"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-le-commencement-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-apocalypse",
+  "universe_id": "mcu",
+  "title": "X-Men : Apocalypse",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men : Apocalypse"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-apocalypse-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-dark-phoenix",
+  "universe_id": "mcu",
+  "title": "Dark Phoenix",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Dark Phoenix"
+  ],
+  "seasons": [
+   {
+    "id": "fox-dark-phoenix-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-wolverine-le-combat-de-l-immortel",
+  "universe_id": "mcu",
+  "title": "Wolverine : Le Combat de l'immortel",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Wolverine : Le Combat de l'immortel"
+  ],
+  "seasons": [
+   {
+    "id": "fox-wolverine-le-combat-de-l-immortel-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-origins-wolverine",
+  "universe_id": "mcu",
+  "title": "X-Men Origins : Wolverine",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "X-Men Origins : Wolverine"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-origins-wolverine-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man",
+  "universe_id": "mcu",
+  "title": "Spider-Man",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man-2",
+  "universe_id": "mcu",
+  "title": "Spider-Man 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man-3",
+  "universe_id": "mcu",
+  "title": "Spider-Man 3",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "Spider-Man 3"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-3-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "webb-the-amazing-spider-man",
+  "universe_id": "mcu",
+  "title": "The Amazing Spider-Man",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Amazing Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "webb-the-amazing-spider-man-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ },
+ {
+  "id": "webb-the-amazing-spider-man-2",
+  "universe_id": "mcu",
+  "title": "The Amazing Spider-Man 2",
+  "kind": "film",
+  "is_released": true,
+  "is_target_event": false,
+  "titles_legacy": [
+   "The Amazing Spider-Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "webb-the-amazing-spider-man-2-s0",
+    "number": 0,
+    "runtime_min": null,
+    "runtime_is_estimate": true,
+    "narrative_weight": null,
+    "chrono_order": null
+   }
+  ]
+ }
+]

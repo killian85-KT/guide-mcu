@@ -1,0 +1,140 @@
+{
+ "version": "1.0",
+ "generated_for": "ARKORA V1",
+ "paths": [
+  {
+   "id": "essentiel",
+   "name": "Parcours Essentiel",
+   "description": "Le minimum vital pour comprendre Avengers: Doomsday.",
+   "universe_id": "mcu",
+   "target_event_work_id": "mcu-avengers-doomsday",
+   "is_default": true,
+   "work_count": 14,
+   "unit_count": 15,
+   "total_runtime_min": 2360,
+   "total_weight": 1379,
+   "units": [
+    {
+     "position": 1,
+     "season_id": "mcu-iron-man-s0",
+     "work_id": "mcu-iron-man",
+     "label": "Iron Man",
+     "narrative_weight": 96,
+     "runtime_min": 126
+    },
+    {
+     "position": 2,
+     "season_id": "mcu-avengers-s0",
+     "work_id": "mcu-avengers",
+     "label": "Avengers",
+     "narrative_weight": 88,
+     "runtime_min": 143
+    },
+    {
+     "position": 3,
+     "season_id": "mcu-captain-america-civil-war-s0",
+     "work_id": "mcu-captain-america-civil-war",
+     "label": "Captain America : Civil War",
+     "narrative_weight": 90,
+     "runtime_min": 147
+    },
+    {
+     "position": 4,
+     "season_id": "mcu-spider-man-homecoming-s0",
+     "work_id": "mcu-spider-man-homecoming",
+     "label": "Spider-Man : Homecoming",
+     "narrative_weight": 84,
+     "runtime_min": 133
+    },
+    {
+     "position": 5,
+     "season_id": "mcu-avengers-infinity-war-s0",
+     "work_id": "mcu-avengers-infinity-war",
+     "label": "Avengers : Infinity War",
+     "narrative_weight": 98,
+     "runtime_min": 149
+    },
+    {
+     "position": 6,
+     "season_id": "mcu-avengers-endgame-s0",
+     "work_id": "mcu-avengers-endgame",
+     "label": "Avengers : Endgame",
+     "narrative_weight": 99,
+     "runtime_min": 181
+    },
+    {
+     "position": 7,
+     "season_id": "mcu-spider-man-far-from-home-s0",
+     "work_id": "mcu-spider-man-far-from-home",
+     "label": "Spider-Man : Far From Home",
+     "narrative_weight": 86,
+     "runtime_min": 129
+    },
+    {
+     "position": 8,
+     "season_id": "mcu-loki-s1",
+     "work_id": "mcu-loki",
+     "label": "Loki — Saison 1",
+     "narrative_weight": 94,
+     "runtime_min": 288
+    },
+    {
+     "position": 9,
+     "season_id": "mcu-spider-man-no-way-home-s0",
+     "work_id": "mcu-spider-man-no-way-home",
+     "label": "Spider-Man : No Way Home",
+     "narrative_weight": 97,
+     "runtime_min": 148
+    },
+    {
+     "position": 10,
+     "season_id": "mcu-doctor-strange-multiverse-of-madness-s0",
+     "work_id": "mcu-doctor-strange-multiverse-of-madness",
+     "label": "Doctor Strange : Multiverse of Madness",
+     "narrative_weight": 87,
+     "runtime_min": 126
+    },
+    {
+     "position": 11,
+     "season_id": "mcu-loki-s2",
+     "work_id": "mcu-loki",
+     "label": "Loki — Saison 2",
+     "narrative_weight": 92,
+     "runtime_min": 300
+    },
+    {
+     "position": 12,
+     "season_id": "fox-deadpool-wolverine-s0",
+     "work_id": "fox-deadpool-wolverine",
+     "label": "Deadpool & Wolverine",
+     "narrative_weight": 89,
+     "runtime_min": 128
+    },
+    {
+     "position": 13,
+     "season_id": "mcu-thunderbolts-s0",
+     "work_id": "mcu-thunderbolts",
+     "label": "Thunderbolts*",
+     "narrative_weight": 91,
+     "runtime_min": 127
+    },
+    {
+     "position": 14,
+     "season_id": "f4-les-4-fantastiques-premiers-pas-s0",
+     "work_id": "f4-les-4-fantastiques-premiers-pas",
+     "label": "Les 4 Fantastiques : Premiers Pas",
+     "narrative_weight": 95,
+     "runtime_min": 115
+    },
+    {
+     "position": 15,
+     "season_id": "mcu-spider-man-brand-new-day-s0",
+     "work_id": "mcu-spider-man-brand-new-day",
+     "label": "Spider-Man : Brand New Day",
+     "narrative_weight": 93,
+     "runtime_min": 120
+    }
+   ]
+  }
+ ]
+}
