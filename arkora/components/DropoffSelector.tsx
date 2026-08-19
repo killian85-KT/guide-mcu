@@ -1,13 +1,13 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { getDropoffPresets, getEssentielPath } from "@/lib/paths";
+import { getDropoffPresets, getDefaultPath } from "@/lib/paths";
 import { loadProgress, applyPreset, saveProgress } from "@/lib/progress";
 
 export default function DropoffSelector() {
   const router = useRouter();
   const presets = getDropoffPresets();
-  const unitCount = getEssentielPath().unit_count; // dérivé de paths.json, jamais en dur
+  const unitCount = getDefaultPath().unit_count; // dérivé de paths.json, jamais en dur
 
   function handleSelect(seasonIds: string[]) {
     const current = loadProgress();

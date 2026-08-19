@@ -4,13 +4,26 @@ import type { Path, DropoffPreset } from "./types";
 
 const ALL_PATHS = pathsData.paths as unknown as Path[];
 
-/** Le parcours Essentiel — seul parcours livré en V1 (§6 : Recommandé/Puriste/Intégrale = V1.1). */
-export function getEssentielPath(): Path {
-  const essentiel = ALL_PATHS.find((p) => p.id === "essentiel");
-  if (!essentiel) {
-    throw new Error("Parcours 'essentiel' introuvable dans data/paths.json");
+export function getAllPaths(): Path[] {
+  return ALL_PATHS;
+}
+
+/** Le parcours actif par défaut : celui marqué is_default:true dans paths.json.
+ *  Aucun id de parcours n'est supposé en dur (paths.json v2.0 : sprint/recommande/films). */
+export function getDefaultPath(): Path {
+  const def = ALL_PATHS.find((p) => p.is_default);
+  if (!def) {
+    throw new Error("Aucun parcours is_default:true dans data/paths.json");
   }
-  return essentiel;
+  return def;
+}
+
+export function getPathById(id: string): Path {
+  const p = ALL_PATHS.find((p) => p.id === id);
+  if (!p) {
+    throw new Error(`Parcours '${id}' introuvable dans data/paths.json`);
+  }
+  return p;
 }
 
 export function getDropoffPresets(): DropoffPreset[] {

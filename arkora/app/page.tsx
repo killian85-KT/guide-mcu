@@ -1,9 +1,10 @@
 import Countdown from "@/components/Countdown";
+import PaceIndicator from "@/components/PaceIndicator";
 import DropoffSelector from "@/components/DropoffSelector";
-import { getEssentielPath } from "@/lib/paths";
+import { getDefaultPath } from "@/lib/paths";
 
 export default function AccueilPage() {
-  const path = getEssentielPath();
+  const path = getDefaultPath();
   const hours = Math.round((path.total_runtime_min / 60) * 10) / 10;
 
   return (
@@ -22,6 +23,7 @@ export default function AccueilPage() {
       </div>
 
       <Countdown />
+      <PaceIndicator />
 
       <div className="grid w-full grid-cols-3 gap-2">
         <div className="rounded-md border border-neutral-800 bg-neutral-900 px-2 py-3">
