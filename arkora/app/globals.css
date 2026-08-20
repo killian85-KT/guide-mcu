@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --background: #07070c;
-  --foreground: #eef0f6;
+  --background: #ffffff;
+  --foreground: #16181d;
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  font-family: var(--font-inter), ui-sans-serif, system-ui, -apple-system, sans-serif;
 }
 
 @layer utilities {

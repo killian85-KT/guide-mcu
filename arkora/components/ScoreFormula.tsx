@@ -11,14 +11,14 @@ export default function ScoreFormula({ result }: { result: ScoreResult }) {
       <button
         type="button"
         onClick={() => setOpen((v) => !v)}
-        className="mx-auto block font-mono text-[11px] uppercase tracking-wider text-neutral-500 underline decoration-dotted underline-offset-4"
+        className="mx-auto block font-mono text-[11px] uppercase tracking-wider text-signature underline decoration-dotted underline-offset-4"
         aria-expanded={open}
       >
         Comment c&rsquo;est calculé
       </button>
       {open && (
-        <div className="mt-3 rounded-md border border-neutral-800 bg-neutral-900 px-4 py-3 text-[12.5px] leading-relaxed text-neutral-400">
-          <p className="font-mono text-[11px] text-neutral-300">
+        <div className="mt-3 rounded-md border border-hairline bg-warm px-4 py-3 text-[12.5px] leading-relaxed text-ink-soft">
+          <p className="font-mono text-[11px] text-ink">
             Score = round(100 × poids vu ÷ poids total)
           </p>
           <p className="mt-2">

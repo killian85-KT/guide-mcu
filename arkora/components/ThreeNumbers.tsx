@@ -15,9 +15,9 @@ export default function ThreeNumbers({ numbers }: { numbers: ThreeNumbersResult 
 
 function Stat({ value, label }: { value: string | number; label: string }) {
   return (
-    <div className="rounded-md border border-neutral-800 bg-neutral-900 px-2 py-3 text-center">
-      <div className="font-mono text-lg tabular-nums text-neutral-50">{value}</div>
-      <div className="mt-0.5 text-[10px] uppercase tracking-wide text-neutral-500">{label}</div>
+    <div className="rounded-md border border-hairline bg-warm px-2 py-3 text-center">
+      <div className="font-mono text-lg tabular-nums text-ink">{value}</div>
+      <div className="mt-0.5 text-[10px] uppercase tracking-wide text-signature">{label}</div>
     </div>
   );
 }

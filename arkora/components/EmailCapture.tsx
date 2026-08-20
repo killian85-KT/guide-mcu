@@ -5,9 +5,9 @@ import { useState, type FormEvent } from "react";
 type Status = "idle" | "submitting" | "saved" | "error" | "skipped";
 
 /** Bouton "primaire" et bouton "secondaire" partagent la même classe de taille de
- *  police (§9 : "même taille de police que le primaire") — seule la couleur diffère. */
-const BUTTON_BASE =
-  "rounded-full px-6 py-3 text-[14px] font-semibold transition-colors disabled:opacity-50";
+ *  police (§9 : "même taille de police que le primaire") — seule la couleur diffère.
+ *  Radius 5px imposé par la charte (rounded-btn), jamais de rouge ni de cyan. */
+const BUTTON_BASE = "rounded-btn px-6 py-3 text-[14px] font-semibold transition-colors disabled:opacity-50";
 
 export default function EmailCapture({ score }: { score: number | null }) {
   const [email, setEmail] = useState("");
@@ -36,16 +36,16 @@ export default function EmailCapture({ score }: { score: number | null }) {
 
   if (status === "saved" || status === "error" || status === "skipped") {
     return (
-      <div className="w-full rounded-lg border border-neutral-800 bg-neutral-900 px-5 py-4 text-center text-[13.5px] leading-relaxed">
-        {status === "saved" && <p className="text-neutral-200">C&rsquo;est bon. Ta progression est enregistrée.</p>}
+      <div className="w-full rounded-lg border border-hairline bg-warm px-5 py-4 text-center text-[13.5px] leading-relaxed">
+        {status === "saved" && <p className="text-ink">C&rsquo;est bon. Ta progression est enregistrée.</p>}
         {status === "error" && (
-          <p className="text-neutral-200">
+          <p className="text-ink">
             On n&rsquo;a pas pu enregistrer ton email. Ta progression est sauvegardée sur cet
             appareil.
           </p>
         )}
-        {status === "skipped" && <p className="text-neutral-200">Ta progression reste sur cet appareil.</p>}
-        <p className="mt-2 font-mono text-[10px] uppercase tracking-wider text-neutral-500">
+        {status === "skipped" && <p className="text-ink">Ta progression reste sur cet appareil.</p>}
+        <p className="mt-2 font-mono text-[10px] uppercase tracking-wider text-signature">
           Le parcours détaillé arrive bientôt.
         </p>
       </div>
@@ -62,14 +62,14 @@ export default function EmailCapture({ score }: { score: number | null }) {
           onChange={(e) => setEmail(e.target.value)}
           placeholder="ton@email.com"
           autoComplete="email"
-          className="rounded-md border border-neutral-700 bg-neutral-950 px-4 py-3 text-[14px] text-neutral-100 outline-none focus:border-red-600"
+          className="rounded-btn border border-hairline bg-white px-4 py-3 text-[14px] text-ink outline-none focus:border-navy"
         />
-        <label className="flex items-start gap-2 text-[12px] leading-snug text-neutral-400">
+        <label className="flex items-start gap-2 text-[12px] leading-snug text-ink-soft">
           <input
             type="checkbox"
             checked={consent}
             onChange={(e) => setConsent(e.target.checked)}
-            className="mt-0.5"
+            className="mt-0.5 accent-navy"
           />
           <span>
             J&rsquo;accepte de recevoir un email pour retrouver ma progression et être prévenu
@@ -82,14 +82,14 @@ export default function EmailCapture({ score }: { score: number | null }) {
         <button
           type="submit"
           disabled={!email || !consent || status === "submitting"}
-          className={`${BUTTON_BASE} flex-1 bg-red-600 text-white hover:bg-red-500`}
+          className={`${BUTTON_BASE} flex-1 bg-navy text-white hover:bg-navy/90`}
         >
           Sauvegarder ma progression
         </button>
         <button
           type="button"
           onClick={handleSkip}
-          className={`${BUTTON_BASE} flex-1 border border-neutral-700 text-neutral-300 hover:border-neutral-500`}
+          className={`${BUTTON_BASE} flex-1 border border-navy text-navy hover:bg-navy/5`}
         >
           Continuer sans sauvegarder
         </button>

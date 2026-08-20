@@ -19,12 +19,12 @@ export default function ScorePage() {
   }, []);
 
   if (!state) {
-    return <main className="mx-auto max-w-md px-5 py-12 text-center text-sm text-neutral-500">Calcul en cours…</main>;
+    return <main className="mx-auto max-w-md px-5 py-12 text-center text-sm text-signature">Calcul en cours…</main>;
   }
 
   return (
     <main className="mx-auto flex min-h-screen max-w-md flex-col items-center gap-7 px-5 py-12">
-      <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-red-500">Ton score</p>
+      <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-gold">Ton score</p>
 
       <ScoreDisplay result={state.score} />
 
@@ -37,7 +37,7 @@ export default function ScorePage() {
 
       <EmailCapture score={state.score.score} />
 
-      <Link href="/" className="text-[12px] text-neutral-500 underline underline-offset-4">
+      <Link href="/" className="text-[12px] text-signature underline underline-offset-4">
         Changer mon point de départ
       </Link>
     </main>
