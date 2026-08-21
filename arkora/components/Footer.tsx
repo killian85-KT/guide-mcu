@@ -13,10 +13,10 @@ const LEGAL_LINKS = [
 ];
 
 const SOCIAL_LINKS = [
-  { href: "https://www.instagram.com/arkora.os", label: "Instagram", icon: InstagramIcon },
-  { href: "https://www.tiktok.com/@arkora.os", label: "TikTok", icon: TikTokIcon },
-  { href: "https://www.youtube.com/@Arkora-OS", label: "YouTube", icon: YouTubeIcon },
-  { href: "#", label: "Facebook", icon: FacebookIcon },
+  { href: "https://www.instagram.com/arkora.fr/", label: "Instagram", icon: InstagramIcon },
+  { href: "https://www.tiktok.com/@arkora.fr", label: "TikTok", icon: TikTokIcon },
+  { href: "https://www.youtube.com/@Arkorafr", label: "YouTube", icon: YouTubeIcon },
+  { href: "https://www.facebook.com/profile.php?id=61592886683083", label: "Facebook", icon: FacebookIcon },
 ];
 
 function ColumnTitle({ children }: { children: React.ReactNode }) {
@@ -49,8 +49,8 @@ export default function Footer() {
           <div className="flex flex-col gap-1.5 text-[12px] text-ink-2">
             <p>Guide éditorial indépendant</p>
             <p>Non affilié à Marvel Studios</p>
-            <a href="mailto:contact@arkora.fr" className="hover:text-ink">
-              contact@arkora.fr
+            <a href="mailto:contact.arkora@gmail.com" className="hover:text-ink">
+              contact.arkora@gmail.com
             </a>
           </div>
         </div>
