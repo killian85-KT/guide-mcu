@@ -49,8 +49,8 @@ export default function Footer() {
           <div className="flex flex-col gap-1.5 text-[12px] text-ink-2">
             <p>Guide éditorial indépendant</p>
             <p>Non affilié à Marvel Studios</p>
-            <a href="mailto:contact.arkora@gmail.com" className="hover:text-ink">
-              contact.arkora@gmail.com
+            <a href="mailto:contact@arkora.fr" className="hover:text-ink">
+              contact@arkora.fr
             </a>
           </div>
         </div>
