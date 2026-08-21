@@ -1,0 +1,82 @@
+{
+ "version": "1.0",
+ "purpose": "6 presets de décrochage (É1). Points de départ ajustables (§11), pas une reconstitution fidèle de l'historique réel de visionnage. Proposés par l'agent, validés explicitement par l'utilisateur — absents du document ARKORA-V1-MASTER-EXECUTION lui-même.",
+ "source_path_id": "essentiel",
+ "presets": [
+  {
+   "id": "zero-vu",
+   "label": "Je pars de zéro",
+   "description": "Aucune unité pré-cochée : tu démarres le parcours Recommandé depuis le début.",
+   "precheck_season_ids": []
+  },
+  {
+   "id": "post-avengers-2012",
+   "label": "Je me suis arrêté après Avengers",
+   "description": "Tu as vu les débuts Iron Man et le premier Avengers, rien après.",
+   "precheck_season_ids": [
+    "mcu-iron-man-s0",
+    "mcu-avengers-s0"
+   ]
+  },
+  {
+   "id": "post-homecoming",
+   "label": "Je me suis arrêté après Spider-Man: Homecoming",
+   "description": "Tu as suivi la guerre civile et l'arrivée de Spider-Man, rien après.",
+   "precheck_season_ids": [
+    "mcu-iron-man-s0",
+    "mcu-avengers-s0",
+    "mcu-captain-america-civil-war-s0",
+    "mcu-spider-man-homecoming-s0"
+   ]
+  },
+  {
+   "id": "post-endgame",
+   "label": "Je me suis arrêté après Endgame",
+   "description": "Tu as vécu la fin de la Saga de l'Infini, rien depuis.",
+   "precheck_season_ids": [
+    "mcu-iron-man-s0",
+    "mcu-avengers-s0",
+    "mcu-captain-america-civil-war-s0",
+    "mcu-spider-man-homecoming-s0",
+    "mcu-avengers-infinity-war-s0",
+    "mcu-avengers-endgame-s0"
+   ]
+  },
+  {
+   "id": "post-no-way-home",
+   "label": "Je me suis arrêté après No Way Home",
+   "description": "Tu as suivi Peter jusqu'à No Way Home et vu Loki Saison 1, rien depuis.",
+   "precheck_season_ids": [
+    "mcu-iron-man-s0",
+    "mcu-avengers-s0",
+    "mcu-captain-america-civil-war-s0",
+    "mcu-spider-man-homecoming-s0",
+    "mcu-avengers-infinity-war-s0",
+    "mcu-avengers-endgame-s0",
+    "mcu-spider-man-far-from-home-s0",
+    "mcu-loki-s1",
+    "mcu-spider-man-no-way-home-s0"
+   ]
+  },
+  {
+   "id": "quasi-a-jour",
+   "label": "Je suis presque à jour",
+   "description": "J'ai suivi presque tout le parcours essentiel.",
+   "precheck_season_ids": [
+    "mcu-iron-man-s0",
+    "mcu-avengers-s0",
+    "mcu-captain-america-civil-war-s0",
+    "mcu-spider-man-homecoming-s0",
+    "mcu-avengers-infinity-war-s0",
+    "mcu-avengers-endgame-s0",
+    "mcu-spider-man-far-from-home-s0",
+    "mcu-loki-s1",
+    "mcu-spider-man-no-way-home-s0",
+    "mcu-doctor-strange-multiverse-of-madness-s0",
+    "mcu-loki-s2",
+    "fox-deadpool-wolverine-s0",
+    "mcu-thunderbolts-s0"
+   ]
+  }
+ ]
+}

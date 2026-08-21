@@ -1,0 +1,1347 @@
+[
+ {
+  "id": "mcu-les-eternels",
+  "title": "Les Éternels",
+  "titles": [
+   "Les Éternels"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-eternels-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-first-avenger",
+  "title": "Captain America : First Avenger",
+  "titles": [
+   "Captain America : First Avenger"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-first-avenger-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-agent-carter",
+  "title": "Agent Carter",
+  "titles": [
+   "Agent Carter (S1)",
+   "Agent Carter (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agent-carter-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-agent-carter-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-marvel",
+  "title": "Captain Marvel",
+  "titles": [
+   "Captain Marvel"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-marvel-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man",
+  "title": "Iron Man",
+  "titles": [
+   "Iron Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-l-incroyable-hulk",
+  "title": "L'Incroyable Hulk",
+  "titles": [
+   "L'Incroyable Hulk"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-l-incroyable-hulk-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man-2",
+  "title": "Iron Man 2",
+  "titles": [
+   "Iron Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor",
+  "title": "Thor",
+  "titles": [
+   "Thor"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers",
+  "title": "Avengers",
+  "titles": [
+   "Avengers"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-iron-man-3",
+  "title": "Iron Man 3",
+  "titles": [
+   "Iron Man 3"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-iron-man-3-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-le-monde-des-tenebres",
+  "title": "Thor : Le Monde des Ténèbres",
+  "titles": [
+   "Thor : Le Monde des Ténèbres"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-le-monde-des-tenebres-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-le-soldat-de-l-hiver",
+  "title": "Captain America : Le Soldat de l'Hiver",
+  "titles": [
+   "Captain America : Le Soldat de l'Hiver"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-le-soldat-de-l-hiver-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie",
+  "title": "Les Gardiens de la Galaxie",
+  "titles": [
+   "Les Gardiens de la Galaxie"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-l-ere-d-ultron",
+  "title": "Avengers : L'Ère d'Ultron",
+  "titles": [
+   "Avengers : L'Ère d'Ultron"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-l-ere-d-ultron-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man",
+  "title": "Ant-Man",
+  "titles": [
+   "Ant-Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-civil-war",
+  "title": "Captain America : Civil War",
+  "titles": [
+   "Captain America : Civil War"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-civil-war-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-doctor-strange",
+  "title": "Doctor Strange",
+  "titles": [
+   "Doctor Strange"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-doctor-strange-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie-vol-2",
+  "title": "Les Gardiens de la Galaxie Vol. 2",
+  "titles": [
+   "Les Gardiens de la Galaxie Vol. 2"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-vol-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-homecoming",
+  "title": "Spider-Man : Homecoming",
+  "titles": [
+   "Spider-Man : Homecoming"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-homecoming-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-ragnarok",
+  "title": "Thor : Ragnarok",
+  "titles": [
+   "Thor : Ragnarok"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-ragnarok-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-panther",
+  "title": "Black Panther",
+  "titles": [
+   "Black Panther"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-panther-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-infinity-war",
+  "title": "Avengers : Infinity War",
+  "titles": [
+   "Avengers : Infinity War"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-infinity-war-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man-et-la-guepe",
+  "title": "Ant-Man et la Guêpe",
+  "titles": [
+   "Ant-Man et la Guêpe"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-et-la-guepe-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-endgame",
+  "title": "Avengers : Endgame",
+  "titles": [
+   "Avengers : Endgame"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-endgame-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-far-from-home",
+  "title": "Spider-Man : Far From Home",
+  "titles": [
+   "Spider-Man : Far From Home"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-far-from-home-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-widow",
+  "title": "Black Widow",
+  "titles": [
+   "Black Widow"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-widow-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-wandavision",
+  "title": "WandaVision",
+  "titles": [
+   "WandaVision"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-wandavision-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-falcon-et-le-soldat-de-l-hiver",
+  "title": "Falcon et le Soldat de l'Hiver",
+  "titles": [
+   "Falcon et le Soldat de l'Hiver"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-falcon-et-le-soldat-de-l-hiver-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-loki-saison-1",
+  "title": "Loki (Saison 1)",
+  "titles": [
+   "Loki (Saison 1)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-loki-saison-1-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-what-if",
+  "title": "What If...?",
+  "titles": [
+   "What If...? (S1)",
+   "What If...? (S2-S3)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-what-if-s1",
+    "number": 1
+   },
+   {
+    "id": "mcu-what-if-s2",
+    "number": 2
+   },
+   {
+    "id": "mcu-what-if-s3",
+    "number": 3
+   }
+  ]
+ },
+ {
+  "id": "mcu-hawkeye",
+  "title": "Hawkeye",
+  "titles": [
+   "Hawkeye"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-hawkeye-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-moon-knight",
+  "title": "Moon Knight",
+  "titles": [
+   "Moon Knight"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-moon-knight-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-ms-marvel",
+  "title": "Ms. Marvel",
+  "titles": [
+   "Ms. Marvel"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ms-marvel-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-i-am-groot",
+  "title": "I Am Groot",
+  "titles": [
+   "I Am Groot (S1-S2)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-i-am-groot-s1",
+    "number": 1
+   },
+   {
+    "id": "mcu-i-am-groot-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "mcu-she-hulk-avocate",
+  "title": "She-Hulk : Avocate",
+  "titles": [
+   "She-Hulk : Avocate"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-she-hulk-avocate-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-werewolf-by-night",
+  "title": "Werewolf by Night",
+  "titles": [
+   "Werewolf by Night"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-werewolf-by-night-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-special-fetes",
+  "title": "Les Gardiens : Spécial Fêtes",
+  "titles": [
+   "Les Gardiens : Spécial Fêtes"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-special-fetes-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-shang-chi-et-la-legende-des-dix-anneaux",
+  "title": "Shang-Chi et la Légende des Dix Anneaux",
+  "titles": [
+   "Shang-Chi et la Légende des Dix Anneaux"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-shang-chi-et-la-legende-des-dix-anneaux-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-no-way-home",
+  "title": "Spider-Man : No Way Home",
+  "titles": [
+   "Spider-Man : No Way Home"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-no-way-home-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-doctor-strange-multiverse-of-madness",
+  "title": "Doctor Strange : Multiverse of Madness",
+  "titles": [
+   "Doctor Strange : Multiverse of Madness"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-doctor-strange-multiverse-of-madness-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-thor-love-and-thunder",
+  "title": "Thor : Love and Thunder",
+  "titles": [
+   "Thor : Love and Thunder"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thor-love-and-thunder-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-black-panther-wakanda-forever",
+  "title": "Black Panther : Wakanda Forever",
+  "titles": [
+   "Black Panther : Wakanda Forever"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-black-panther-wakanda-forever-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-secret-invasion",
+  "title": "Secret Invasion",
+  "titles": [
+   "Secret Invasion"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-secret-invasion-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-ant-man-et-la-guepe-quantumania",
+  "title": "Ant-Man et la Guêpe : Quantumania",
+  "titles": [
+   "Ant-Man et la Guêpe : Quantumania"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ant-man-et-la-guepe-quantumania-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-loki-saison-2",
+  "title": "Loki (Saison 2)",
+  "titles": [
+   "Loki (Saison 2)"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-loki-saison-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-les-gardiens-de-la-galaxie-vol-3",
+  "title": "Les Gardiens de la Galaxie Vol. 3",
+  "titles": [
+   "Les Gardiens de la Galaxie Vol. 3"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-les-gardiens-de-la-galaxie-vol-3-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-the-marvels",
+  "title": "The Marvels",
+  "titles": [
+   "The Marvels"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-the-marvels-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-echo",
+  "title": "Echo",
+  "titles": [
+   "Echo"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-echo-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-97",
+  "title": "X-Men '97",
+  "titles": [
+   "X-Men '97"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-97-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-agatha-all-along",
+  "title": "Agatha All Along",
+  "titles": [
+   "Agatha All Along"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-agatha-all-along-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-your-friendly-neighborhood-spider-man",
+  "title": "Your Friendly Neighborhood Spider-Man",
+  "titles": [
+   "Your Friendly Neighborhood Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-your-friendly-neighborhood-spider-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool-wolverine",
+  "title": "Deadpool & Wolverine",
+  "titles": [
+   "Deadpool & Wolverine"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-wolverine-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-daredevil-born-again",
+  "title": "Daredevil : Born Again",
+  "titles": [
+   "Daredevil : Born Again (S1)",
+   "Daredevil : Born Again (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-daredevil-born-again-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-daredevil-born-again-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "mcu-ironheart",
+  "title": "Ironheart",
+  "titles": [
+   "Ironheart"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-ironheart-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-marvel-zombies",
+  "title": "Marvel Zombies",
+  "titles": [
+   "Marvel Zombies"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-marvel-zombies-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-captain-america-brave-new-world",
+  "title": "Captain America : Brave New World",
+  "titles": [
+   "Captain America : Brave New World"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-captain-america-brave-new-world-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-thunderbolts",
+  "title": "Thunderbolts*",
+  "titles": [
+   "Thunderbolts*"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-thunderbolts-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "f4-les-4-fantastiques-premiers-pas",
+  "title": "Les 4 Fantastiques : Premiers Pas",
+  "titles": [
+   "Les 4 Fantastiques : Premiers Pas"
+  ],
+  "seasons": [
+   {
+    "id": "f4-les-4-fantastiques-premiers-pas-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-eyes-of-wakanda",
+  "title": "Eyes of Wakanda",
+  "titles": [
+   "Eyes of Wakanda"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-eyes-of-wakanda-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-wonder-man",
+  "title": "Wonder Man",
+  "titles": [
+   "Wonder Man"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-wonder-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-visionquest",
+  "title": "VisionQuest",
+  "titles": [
+   "VisionQuest"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-visionquest-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-spider-man-brand-new-day",
+  "title": "Spider-Man : Brand New Day",
+  "titles": [
+   "Spider-Man : Brand New Day"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-spider-man-brand-new-day-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-avengers-doomsday",
+  "title": "AVENGERS : DOOMSDAY",
+  "titles": [
+   "AVENGERS : DOOMSDAY"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-avengers-doomsday-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-daredevil",
+  "title": "Daredevil",
+  "titles": [
+   "Daredevil (S1)",
+   "Daredevil (S2)",
+   "Daredevil (S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-daredevil-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-daredevil-s2",
+    "number": 2
+   },
+   {
+    "id": "tv-daredevil-s3",
+    "number": 3
+   }
+  ]
+ },
+ {
+  "id": "tv-jessica-jones",
+  "title": "Jessica Jones",
+  "titles": [
+   "Jessica Jones (S1)",
+   "Jessica Jones (S2)",
+   "Jessica Jones (S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-jessica-jones-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-jessica-jones-s2",
+    "number": 2
+   },
+   {
+    "id": "tv-jessica-jones-s3",
+    "number": 3
+   }
+  ]
+ },
+ {
+  "id": "tv-luke-cage",
+  "title": "Luke Cage",
+  "titles": [
+   "Luke Cage (S1)",
+   "Luke Cage (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-luke-cage-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-luke-cage-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "tv-iron-fist",
+  "title": "Iron Fist",
+  "titles": [
+   "Iron Fist (S1)",
+   "Iron Fist (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-iron-fist-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-iron-fist-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "tv-the-defenders",
+  "title": "The Defenders",
+  "titles": [
+   "The Defenders"
+  ],
+  "seasons": [
+   {
+    "id": "tv-the-defenders-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-the-punisher",
+  "title": "The Punisher",
+  "titles": [
+   "The Punisher (S1)",
+   "The Punisher (S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-the-punisher-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-the-punisher-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "tv-agents-of-s-h-i-e-l-d",
+  "title": "Agents of S.H.I.E.L.D.",
+  "titles": [
+   "Agents of S.H.I.E.L.D. (S1)",
+   "Agents of S.H.I.E.L.D. (S2)",
+   "Agents of S.H.I.E.L.D. (S3-S4)",
+   "Agents of S.H.I.E.L.D. (S5-S7)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s2",
+    "number": 2
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s3",
+    "number": 3
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s4",
+    "number": 4
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s5",
+    "number": 5
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s6",
+    "number": 6
+   },
+   {
+    "id": "tv-agents-of-s-h-i-e-l-d-s7",
+    "number": 7
+   }
+  ]
+ },
+ {
+  "id": "tv-inhumans",
+  "title": "Inhumans",
+  "titles": [
+   "Inhumans"
+  ],
+  "seasons": [
+   {
+    "id": "tv-inhumans-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-runaways",
+  "title": "Runaways",
+  "titles": [
+   "Runaways (S1-S3)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-runaways-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-runaways-s2",
+    "number": 2
+   },
+   {
+    "id": "tv-runaways-s3",
+    "number": 3
+   }
+  ]
+ },
+ {
+  "id": "tv-cloak-dagger",
+  "title": "Cloak & Dagger",
+  "titles": [
+   "Cloak & Dagger (S1-S2)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-cloak-dagger-s1",
+    "number": 1
+   },
+   {
+    "id": "tv-cloak-dagger-s2",
+    "number": 2
+   }
+  ]
+ },
+ {
+  "id": "tv-helstrom",
+  "title": "Helstrom",
+  "titles": [
+   "Helstrom"
+  ],
+  "seasons": [
+   {
+    "id": "tv-helstrom-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-the-consultant",
+  "title": "The Consultant",
+  "titles": [
+   "The Consultant"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-the-consultant-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-a-funny-thing-happened-on-the-way-to-thor-s-",
+  "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+  "titles": [
+   "A Funny Thing Happened on the Way to Thor's Hammer"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-a-funny-thing-happened-on-the-way-to-thor-s--s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-item-47",
+  "title": "Item 47",
+  "titles": [
+   "Item 47"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-item-47-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "tv-agent-carter-one-shot",
+  "title": "Agent Carter (One-Shot)",
+  "titles": [
+   "Agent Carter (One-Shot)"
+  ],
+  "seasons": [
+   {
+    "id": "tv-agent-carter-one-shot-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "mcu-all-hail-the-king",
+  "title": "All Hail the King",
+  "titles": [
+   "All Hail the King"
+  ],
+  "seasons": [
+   {
+    "id": "mcu-all-hail-the-king-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men",
+  "title": "X-Men",
+  "titles": [
+   "X-Men"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-2",
+  "title": "X-Men 2",
+  "titles": [
+   "X-Men 2"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-l-affrontement-final",
+  "title": "X-Men : L'Affrontement final",
+  "titles": [
+   "X-Men : L'Affrontement final"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-l-affrontement-final-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-days-of-future-past",
+  "title": "X-Men : Days of Future Past",
+  "titles": [
+   "X-Men : Days of Future Past"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-days-of-future-past-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-logan",
+  "title": "Logan",
+  "titles": [
+   "Logan"
+  ],
+  "seasons": [
+   {
+    "id": "fox-logan-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool",
+  "title": "Deadpool",
+  "titles": [
+   "Deadpool"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-deadpool-2",
+  "title": "Deadpool 2",
+  "titles": [
+   "Deadpool 2"
+  ],
+  "seasons": [
+   {
+    "id": "fox-deadpool-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-le-commencement",
+  "title": "X-Men : Le Commencement",
+  "titles": [
+   "X-Men : Le Commencement"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-le-commencement-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-apocalypse",
+  "title": "X-Men : Apocalypse",
+  "titles": [
+   "X-Men : Apocalypse"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-apocalypse-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-dark-phoenix",
+  "title": "Dark Phoenix",
+  "titles": [
+   "Dark Phoenix"
+  ],
+  "seasons": [
+   {
+    "id": "fox-dark-phoenix-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-wolverine-le-combat-de-l-immortel",
+  "title": "Wolverine : Le Combat de l'immortel",
+  "titles": [
+   "Wolverine : Le Combat de l'immortel"
+  ],
+  "seasons": [
+   {
+    "id": "fox-wolverine-le-combat-de-l-immortel-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "fox-x-men-origins-wolverine",
+  "title": "X-Men Origins : Wolverine",
+  "titles": [
+   "X-Men Origins : Wolverine"
+  ],
+  "seasons": [
+   {
+    "id": "fox-x-men-origins-wolverine-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man",
+  "title": "Spider-Man",
+  "titles": [
+   "Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man-2",
+  "title": "Spider-Man 2",
+  "titles": [
+   "Spider-Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-2-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "raimi-spider-man-3",
+  "title": "Spider-Man 3",
+  "titles": [
+   "Spider-Man 3"
+  ],
+  "seasons": [
+   {
+    "id": "raimi-spider-man-3-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "webb-the-amazing-spider-man",
+  "title": "The Amazing Spider-Man",
+  "titles": [
+   "The Amazing Spider-Man"
+  ],
+  "seasons": [
+   {
+    "id": "webb-the-amazing-spider-man-s0",
+    "number": 0
+   }
+  ]
+ },
+ {
+  "id": "webb-the-amazing-spider-man-2",
+  "title": "The Amazing Spider-Man 2",
+  "titles": [
+   "The Amazing Spider-Man 2"
+  ],
+  "seasons": [
+   {
+    "id": "webb-the-amazing-spider-man-2-s0",
+    "number": 0
+   }
+  ]
+ }
+]

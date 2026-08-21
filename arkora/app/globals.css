@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Charte Arkora V2 — source de vérité des tokens couleur */
+  --color-paper: #ffffff;
+  --color-paper-warm: #f7f5f1;
+  --color-ink: #16181d;
+  --color-ink-2: #4a4e57;
+  --color-ink-3: #8a8e97;
+  --color-navy: #1b2a4a;
+  --color-gold: #a8862e;
+  --color-hairline: #e4e1da;
+
+  --background: var(--color-paper);
+  --foreground: var(--color-ink);
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
