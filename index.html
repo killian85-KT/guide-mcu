@@ -2,8 +2,17 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>PROTOCOLE DOOMSDAY — Guide MCU Complet</title>
+<meta name="description" content="93 titres, ta checklist de préparation avant Avengers : Doomsday.">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#07070c">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Doomsday">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
 *{margin:0;padding:0;box-sizing:border-box}
@@ -1256,10 +1265,15 @@ const BADGES=[
 
 const ALL=D.flatMap(e=>e.items);
 const TW=ALL.reduce((s,i)=>s+i.w,0);
-let seen=new Set();
-try{ seen=new Set(JSON.parse(localStorage.getItem('ark_seen')||'[]')); }catch(e){}
-function saveSeen(){ try{ localStorage.setItem('ark_seen',JSON.stringify([...seen])); }catch(e){} }
-let cf="all",chf="all",lastBadge=0;
+const LSK="ark_seen";
+function loadSeen(){
+  try{const raw=localStorage.getItem(LSK);return raw?new Set(JSON.parse(raw)):new Set()}
+  catch(_){return new Set()}
+}
+function saveSeen(){
+  try{localStorage.setItem(LSK,JSON.stringify([...seen]))}catch(_){}
+}
+let seen=loadSeen(),cf="all",chf="all",lastBadge=0;
 
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;')}
 function match(i){
@@ -1290,7 +1304,7 @@ function tick(){
 tick();setInterval(tick,1000);
 
 /* JAUGE + BADGE */
-function gauge(){
+function gauge(silent){
   let w=0;ALL.forEach(i=>{if(seen.has(i.t))w+=i.w});
   const pct=Math.round(w/TW*100);
   document.getElementById('gf').style.width=pct+'%';
@@ -1299,7 +1313,8 @@ function gauge(){
   const b=BADGES[bi],el=document.getElementById('gbd');
   el.textContent=b[1];el.style.background=b[2]+'33';el.style.color=b[2];
   document.getElementById('grk').textContent=b[5];
-  if(bi>lastBadge){showBadge(b);lastBadge=bi}
+  if(silent){lastBadge=bi}
+  else if(bi>lastBadge){showBadge(b);lastBadge=bi}
   else if(bi<lastBadge){lastBadge=bi}
 }
 function showBadge(b){
@@ -1434,11 +1449,11 @@ document.addEventListener('click',e=>{
   if(c1){cf=c1.dataset.f;document.querySelectorAll('[data-f]').forEach(x=>x.classList.toggle('on',x===c1));renderChrono();return}
   const c2=t.closest('[data-cf]');
   if(c2){chf=c2.dataset.cf;document.querySelectorAll('[data-cf]').forEach(x=>x.classList.toggle('on',x===c2));renderChars();return}
-  if(t.id==='rst'){seen.clear();saveSeen();lastBadge=0;renderChrono();renderPrio();gauge();return}
+  if(t.id==='rst'){seen.clear();lastBadge=0;saveSeen();renderChrono();renderPrio();gauge();return}
   const ck=t.closest('.ck');
   if(ck){e.stopPropagation();const k=ck.dataset.k;
-    seen.has(k)?seen.delete(k):seen.add(k);saveSeen();
-    renderChrono();renderPrio();gauge();return}
+    seen.has(k)?seen.delete(k):seen.add(k);
+    saveSeen();renderChrono();renderPrio();gauge();return}
   const sp=t.closest('.sp');
   if(sp){e.stopPropagation();sp.classList.toggle('sh');return}
   const ih=t.closest('.ith');
@@ -1448,6 +1463,8 @@ document.addEventListener('click',e=>{
   const ch=t.closest('.ch');
   if(ch){ch.classList.toggle('op');return}
 });
+
+renderPaths();renderChrono();renderPrio();renderChars();gauge(true);
 
 /* ══ ARKORA V2 — marquage casting confirmé + univers ══ */
 (function(){
@@ -1467,8 +1484,6 @@ document.addEventListener('click',e=>{
     if(c.dm) c.n = '🟢 ' + c.n.replace(/^🟢 /,'');
   });
 })();
-
-renderPaths();renderChrono();renderPrio();renderChars();gauge();
 
 /* ══ ARKORA V2 — déverrouillage du chaînon manquant après capture email ══ */
 window.ARK_UNLOCKED = false;
@@ -1498,5 +1513,12 @@ document.addEventListener('DOMContentLoaded',function(){
 
 </script>
 <iframe name="ark-sink" style="display:none" title="sink"></iframe>
+<script>
+if("serviceWorker" in navigator){
+  window.addEventListener("load",()=>{
+    navigator.serviceWorker.register("service-worker.js").catch(()=>{});
+  });
+}
+</script>
 </body>
 </html>
