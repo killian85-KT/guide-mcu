@@ -21,7 +21,7 @@ export default function ScoreDisplay({ result }: { result: ScoreResult }) {
         {result.score}%
       </div>
       <p className="text-[13px] text-ink-2">
-        Calculé sur {result.unitsTotal} unités du parcours Essentiel.
+        Calculé sur {result.unitsTotal} unités du parcours Recommandé.
       </p>
     </div>
   );

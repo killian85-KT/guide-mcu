@@ -23,7 +23,7 @@ export default function ScoreFormula({ result }: { result: ScoreResult }) {
           </p>
           <p className="mt-2">
             {result.weightSeen} / {result.weightTotal} de poids narratif coché, sur les
-            unités du parcours Essentiel uniquement. Les œuvres hors parcours n&rsquo;entrent
+            unités du parcours Recommandé uniquement. Les œuvres hors parcours n&rsquo;entrent
             jamais dans ce calcul, même cochées.
           </p>
         </div>

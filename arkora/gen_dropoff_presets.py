@@ -36,7 +36,7 @@ LABELS = {
 }
 
 DESCRIPTIONS = {
-    "zero-vu": "Aucune unité pré-cochée : tu démarres le parcours Essentiel depuis le début.",
+    "zero-vu": "Aucune unité pré-cochée : tu démarres le parcours Recommandé depuis le début.",
     "post-avengers-2012": "Tu as vu les débuts Iron Man et le premier Avengers, rien après.",
     "post-homecoming": "Tu as suivi la guerre civile et l'arrivée de Spider-Man, rien après.",
     "post-endgame": "Tu as vécu la fin de la Saga de l'Infini, rien depuis.",

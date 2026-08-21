@@ -7,7 +7,10 @@ type Status = "idle" | "submitting" | "saved" | "error" | "skipped";
 /** Bouton "primaire" et bouton "secondaire" partagent la même classe de taille de
  *  police (§9 : "même taille de police que le primaire") — seule la couleur diffère.
  *  Radius 5px imposé par la charte (rounded-btn), jamais de rouge ni de cyan. */
-const BUTTON_BASE = "rounded-btn px-6 py-3 text-[14px] font-semibold transition-colors disabled:opacity-50";
+/* Pas d'opacité réduite à l'état désactivé : le bouton primaire (fond navy #1B2A4A)
+ * doit toujours rester lisible comme navy, jamais virer au gris. L'état désactivé
+ * se signale par le curseur, pas par une couleur différente de la charte. */
+const BUTTON_BASE = "rounded-btn px-6 py-3 text-[14px] font-semibold transition-colors disabled:cursor-not-allowed";
 
 export default function EmailCapture({ score }: { score: number | null }) {
   const [email, setEmail] = useState("");

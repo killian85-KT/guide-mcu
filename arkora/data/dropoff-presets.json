@@ -6,7 +6,7 @@
   {
    "id": "zero-vu",
    "label": "Je pars de zéro",
-   "description": "Aucune unité pré-cochée : tu démarres le parcours Essentiel depuis le début.",
+   "description": "Aucune unité pré-cochée : tu démarres le parcours Recommandé depuis le début.",
    "precheck_season_ids": []
   },
   {
