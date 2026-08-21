@@ -11,15 +11,15 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        // Charte Arkora V2
-        paper: "#FFFFFF",
-        warm: "#F7F5F1",
-        ink: "#16181D",
-        "ink-soft": "#4A4E57",
-        navy: "#1B2A4A",
-        gold: "#A8862E",
-        hairline: "#E4E1DA",
-        signature: "#8A8E97",
+        // Charte Arkora V2 — chaque classe résout vers son token CSS var(--color-*)
+        paper: "var(--color-paper)",
+        "paper-warm": "var(--color-paper-warm)",
+        ink: "var(--color-ink)",
+        "ink-2": "var(--color-ink-2)",
+        "ink-3": "var(--color-ink-3)",
+        navy: "var(--color-navy)",
+        gold: "var(--color-gold)",
+        hairline: "var(--color-hairline)",
       },
       fontFamily: {
         serif: ["var(--font-source-serif)", "serif"],

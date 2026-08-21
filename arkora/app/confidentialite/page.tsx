@@ -6,7 +6,7 @@ export default function ConfidentialitePage() {
       <h1 className="font-serif text-2xl font-semibold text-ink">
         Politique de confidentialité
       </h1>
-      <p className="mt-4 text-[13px] text-ink-soft">Page en cours de rédaction.</p>
+      <p className="mt-4 text-[13px] text-ink-2">Page en cours de rédaction.</p>
     </main>
   );
 }

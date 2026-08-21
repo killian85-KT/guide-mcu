@@ -36,7 +36,7 @@ export default function EmailCapture({ score }: { score: number | null }) {
 
   if (status === "saved" || status === "error" || status === "skipped") {
     return (
-      <div className="w-full rounded-lg border border-hairline bg-warm px-5 py-4 text-center text-[13.5px] leading-relaxed">
+      <div className="w-full rounded-lg border border-hairline bg-paper-warm px-5 py-4 text-center text-[13.5px] leading-relaxed">
         {status === "saved" && <p className="text-ink">C&rsquo;est bon. Ta progression est enregistrée.</p>}
         {status === "error" && (
           <p className="text-ink">
@@ -45,7 +45,7 @@ export default function EmailCapture({ score }: { score: number | null }) {
           </p>
         )}
         {status === "skipped" && <p className="text-ink">Ta progression reste sur cet appareil.</p>}
-        <p className="mt-2 font-mono text-[10px] uppercase tracking-wider text-signature">
+        <p className="mt-2 font-mono text-[10px] uppercase tracking-wider text-ink-3">
           Le parcours détaillé arrive bientôt.
         </p>
       </div>
@@ -62,9 +62,9 @@ export default function EmailCapture({ score }: { score: number | null }) {
           onChange={(e) => setEmail(e.target.value)}
           placeholder="ton@email.com"
           autoComplete="email"
-          className="rounded-btn border border-hairline bg-white px-4 py-3 text-[14px] text-ink outline-none focus:border-navy"
+          className="rounded-btn border border-hairline bg-paper px-4 py-3 text-[14px] text-ink outline-none focus:border-navy"
         />
-        <label className="flex items-start gap-2 text-[12px] leading-snug text-ink-soft">
+        <label className="flex items-start gap-2 text-[12px] leading-snug text-ink-2">
           <input
             type="checkbox"
             checked={consent}

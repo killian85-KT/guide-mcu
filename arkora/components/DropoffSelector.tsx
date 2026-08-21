@@ -23,11 +23,11 @@ export default function DropoffSelector() {
           key={preset.id}
           type="button"
           onClick={() => handleSelect(preset.precheck_season_ids)}
-          className="flex flex-col items-start gap-1 rounded-lg border border-hairline bg-warm px-4 py-3.5 text-left transition-colors hover:border-navy focus-visible:outline focus-visible:outline-2 focus-visible:outline-navy"
+          className="flex flex-col items-start gap-1 rounded-lg border border-hairline bg-paper-warm px-4 py-3.5 text-left transition-colors hover:border-navy focus-visible:outline focus-visible:outline-2 focus-visible:outline-navy"
         >
           <span className="text-[15px] font-semibold text-ink">{preset.label}</span>
-          <span className="text-[13px] leading-snug text-ink-soft">{preset.description}</span>
-          <span className="mt-1 font-mono text-[10px] uppercase tracking-wider text-signature">
+          <span className="text-[13px] leading-snug text-ink-2">{preset.description}</span>
+          <span className="mt-1 font-mono text-[10px] uppercase tracking-wider text-ink-3">
             {preset.precheck_season_ids.length}/{unitCount} unités pré-cochées
           </span>
         </button>

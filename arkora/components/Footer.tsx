@@ -8,9 +8,9 @@ const LEGAL_LINKS = [
 
 export default function Footer() {
   return (
-    <footer className="border-t border-hairline bg-warm px-5 py-8">
+    <footer className="border-t border-hairline bg-paper-warm px-5 py-8">
       <div className="mx-auto flex max-w-md flex-col items-center gap-4 text-center">
-        <p className="text-[12px] leading-relaxed text-ink-soft">
+        <p className="text-[12px] leading-relaxed text-ink-2">
           Arkora est un guide éditorial indépendant. Nous ne sommes affiliés ni à Marvel
           Studios, ni à The Walt Disney Company, ni à aucun ayant droit. Nous n&rsquo;hébergeons
           et ne diffusons aucun contenu vidéo. Les titres et marques cités appartiennent à
@@ -21,13 +21,13 @@ export default function Footer() {
             <Link
               key={link.href}
               href={link.href}
-              className="text-[12px] text-ink-soft underline underline-offset-4 hover:text-ink"
+              className="text-[12px] text-ink-2 underline underline-offset-4 hover:text-ink"
             >
               {link.label}
             </Link>
           ))}
         </nav>
-        <p className="font-mono text-[10px] tracking-widest text-signature">© 2026 BY ARKORA</p>
+        <p className="font-mono text-[10px] tracking-widest text-ink-3">© 2026 BY ARKORA</p>
       </div>
     </footer>
   );

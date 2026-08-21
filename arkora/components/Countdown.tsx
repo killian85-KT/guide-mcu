@@ -41,7 +41,7 @@ export default function Countdown() {
 
   if (parts?.passed) {
     return (
-      <p className="text-sm uppercase tracking-widest text-ink-soft">
+      <p className="text-sm uppercase tracking-widest text-ink-2">
         Avengers : Doomsday est sorti.
       </p>
     );
@@ -57,11 +57,11 @@ export default function Countdown() {
   return (
     <div className="flex gap-px" aria-label="Compte à rebours avant Avengers : Doomsday">
       {units.map(([label, value]) => (
-        <div key={label} className="min-w-[64px] border border-hairline bg-warm px-3 py-2.5 text-center first:rounded-l-md last:rounded-r-md">
+        <div key={label} className="min-w-[64px] border border-hairline bg-paper-warm px-3 py-2.5 text-center first:rounded-l-md last:rounded-r-md">
           <div className="font-mono text-2xl tabular-nums text-gold">
             {value === undefined ? "—" : pad(value)}
           </div>
-          <div className="mt-1 font-mono text-[9px] uppercase tracking-widest text-signature">
+          <div className="mt-1 font-mono text-[9px] uppercase tracking-widest text-ink-3">
             {label}
           </div>
         </div>

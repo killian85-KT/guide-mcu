@@ -39,7 +39,7 @@ export default function PaceIndicator() {
 
   return (
     <div className="text-center">
-      <p className="text-[13px] text-ink-soft">
+      <p className="text-[13px] text-ink-2">
         À ce rythme : <span className="font-mono text-ink">{minutesPerDay} min</span> par jour
       </p>
       {showSwitch && lighterPath && (
